@@ -1,4 +1,4 @@
-![logo](https://github.com/Salmankhan0518/Salmankhan0518/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
+![logo](https://github.com/Salmankhan0518/Salmankhan0518/blob/main/Black%20and%20Blue%20Modern%20Video%20Editor%20LinkedIn%20Banner.png)
 
 <!-- ================= INTRO ================= -->
 <h1 align="center">Hi 👋, I'm Salman Khan</h1>
