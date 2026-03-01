@@ -2,7 +2,7 @@
 
 <!-- ================= INTRO ================= -->
 <h1 align="center">Hi 👋, I'm Salman Khan</h1>
-<h3 align="center">Full-Stack MERN Developer | C++ & DSA Enthusiast</h3>
+<h3 align="center">Full-Stack MERN Developer</h3>
 
 <!-- ================= GIF ================= -->
 <br>
