@@ -2,7 +2,7 @@
 
 <!-- ================= INTRO ================= -->
 <h1 align="center">Hi 👋, I'm Salman Khan</h1>
-<h3 align="center">Full-Stack MERN Developer</h3>
+<h3 align="center">Full-Stack AI Engineer || MERN stack Developer</h3>
 
 <!-- ================= GIF ================= -->
 <br>
@@ -17,22 +17,19 @@
 ---
 
 ## 🌱 About Me
-- 🎓 Third-Year Computer Science Student  
-- 💻 Passionate Full-Stack Developer (MERN)  
+- 🎓 Forth-Year Computer Science Student  
+- 💻 Passionate Full-Stack AI Engineer & MERN-Stack Developer
 - 🧠 Strong foundation in Data Structures & Algorithms  
-- 🏗️ Building scalable and responsive web applications  
+- 🏗️ Building advanced intelligence from data to Agents
 - 🌍 Preparing for advanced studies in Computer Science  
 
 ---
 
 ## 🛠️ Current Learning
-- **React.js, Node.js, Express.js**  
+- **Gen AI, Agentic-AI**  
 
 ## 💬 Ask Me About
-- **React, Node, Express, MongoDB, SQL**  
-
-## ⚡ Fun Fact
-- **I am funny 😂**  
+- **LangChain, LangGraph, NLP, RAG, MCP, ML, DL, PYTHON**  
 
 ---
 
@@ -47,10 +44,9 @@
 ---
 
 ## 🏆 Featured Projects
-- **Restaurant Management System** – C++ (Linked Lists & Queues)  
-- **React Password Generator** – Dynamic password generator  
+- **Restaurant Management System** – C++ (Linked Lists & Queues)    
 - **React Todo App** – State-managed task application  
-- **Responsive Bootstrap Websites** – Mobile-friendly UI  
+- **Responsive Websites** – Mobile-friendly UI  
 
 ---
 
@@ -116,9 +112,8 @@
 ---
 
 ## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmankhan0518&show_icons=true&locale=en&layout=compact" alt="Top languages" /></p>
+<p>Top language: Python</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmankhan0518&show_icons=true&locale=en" alt="GitHub stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmankhan0518&" alt="GitHub streak" /></p>
 
