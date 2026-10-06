@@ -54,62 +54,112 @@
 
 <p align="left">
 
+<!-- 🤖 Agentic AI, LLMs & Automation Tools (TOP) -->
+<a href="https://www.langchain.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://langchain-ai.github.io/langgraph/" target="_blank">
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.llamaindex.ai/" target="_blank">
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.crewai.com/" target="_blank">
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=robot&logoColor=white" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://modelcontextprotocol.io/" target="_blank">
+  <img src="https://img.shields.io/badge/MCP-Protocol-4B0082?style=for-the-badge&logo=openai&logoColor=white" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://n8n.io/" target="_blank">
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" height="40"/>
+</a>
+<br><br>
+
+<!-- 🧠 AI / ML / DL Frameworks -->
+<a href="https://huggingface.co/" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://opencv.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-Learn"/>
+</a>
+<br><br>
+
 <!-- 1️⃣ Languages -->
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
 <a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+&nbsp;&nbsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
 </a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-<br>
-
-<!-- 2️⃣ Java & React Framework -->
+&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://www.w3.org/html/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+</a>
+<br><br>
+
+<!-- 2️⃣ Web Frameworks & Libraries -->
 <a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
 </a>
-<br>
-<!-- 3️⃣ Express & Node -->
+&nbsp;&nbsp;
 <a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="NodeJS"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://expressjs.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express"/>
 </a>
-<br>
-
-<!-- 4️⃣ Databases -->
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-</a>
-
-<br>
-
-<!-- 5️⃣ Other Tools -->
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
+&nbsp;&nbsp;
 <a href="https://redux.js.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://tailwindcss.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS"/>
+</a>
+<br><br>
+
+<!-- 3️⃣ Databases & Tools -->
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
 </a>
 
 </p>
-
----
 
 ## 📊 GitHub Stats
 <p>Top language: Python</p>
