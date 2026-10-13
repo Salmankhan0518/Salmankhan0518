@@ -7,7 +7,7 @@
 <!-- ================= GIF ================= -->
 <br>
 <br>
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 20px; margin: 10px;">
+<img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; aspect-ratio: 1 / 1; margin: 10px;">
 
 <!-- ================= PROFILE VIEWS ================= -->
 <p align="left">
@@ -16,16 +16,16 @@
 
 ---
 
-## 🌱 About Me
-- 🎓 Forth-Year Computer Science Student  
-- 💻 Passionate Full-Stack AI Engineer & MERN-Stack Developer
-- 🧠 Strong foundation in Data Structures & Algorithms  
-- 🏗️ Building advanced intelligence from data to Agents
-- 🌍 Preparing for advanced studies in Computer Science  
-
+## About Me
+-  **Final-Year Computer Science Student** specializing in AI Engineering & Intelligent Systems.
+-  **Full-Stack AI Engineer & MERN Developer**, bridging the gap between robust web platforms and modern GenAI solutions.
+-  **Solid CS Core**: Strong foundation in Data Structures, Algorithms, Machine Learning & Deep Learning.
+-  **Current Focus**: Architecting autonomous agents, dynamic RAG pipelines, and agentic workflows (LangChain, LangGraph, MCP).
+-  **Mission**: Building end-to-end intelligent applications — from data prep and neural networks to production-grade AI agents.
+-  **Goal**: Preparing for higher education to push the boundaries of Advanced Computer Science & Applied AI.
 ---
 
-## 🛠️ Current Learning
+## Current Learning
 - **Gen AI, Agentic-AI**  
 
 ## 💬 Ask Me About
